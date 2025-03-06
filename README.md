@@ -4,11 +4,11 @@
 
 ### Projects
 
-Here is project with three test cases, where I used Playwright and it's inbuild documentation options to automate testing:
+Here is project with three test cases, where I used Playwright and it's built in documentation options to automate testing:
 
 https://github.com/Anni-Muuripeal/Epicbet-testing
 
-Here is a forum project that I build in programming school kood/Jõhvi in a team. I have started adding Playwright tests to it:
+Here is a forum project that I build in kood/Jõhvi school in a team. I am working on adding Playwright tests to it:
 
 https://github.com/Anni-Muuripeal/Test-forum
 
