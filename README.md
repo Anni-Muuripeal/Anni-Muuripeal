@@ -13,7 +13,7 @@ Here is a forum project that I build in kood/Jõhvi school in a team. I am worki
 https://github.com/Anni-Muuripeal/Test-forum
 
 
-### 📫 How to reach me
+### How to reach me
 https://www.linkedin.com/in/anni-muuripeal/
 
 anni.myyripeal@gmail.com
